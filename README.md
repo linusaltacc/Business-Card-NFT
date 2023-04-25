@@ -4,6 +4,18 @@ This project allows users to mint, transfer, and burn business card NFTs, which 
 
 Live demo : https://nftbusinesscard.netlify.app/
 
+Deployed Smart Contract: https://better-call.dev/ghostnet/KT1Jfjh9MNzUzF4GAUfdWA7oZoXGb8U9kfNV/operations
+
+![demo-gif](demo/bcnft.gif)
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Tezos Wallet
+- Taquito
+- SmartPy
+
 
 React Template inspired from https://github.com/vivekascoder/react-tezos-template
 
